@@ -1,0 +1,22 @@
+{
+   "row1": [
+       {
+           "id": 1,
+           "title": "<h1>How To Travel In Style Without Breaking Your Bank Account</h1>",
+           "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p",
+           "img": "<a href='#' class='darken'><img src='images/section2-1.jpg' /><a/>"
+       },
+       {
+           "id": 2,
+           "title": "<h1>The 7 Secret Beaches Located In Australia</h1>",
+           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+           "img": "<a href='#' class='darken'><img src='images/section2-2.jpg' /></a>"
+       },
+       {
+           "id": 3,
+           "title": "<h1>Luxurious Accomodation On A Shoestring Budget</h1>",
+           "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+           "img": "<a href='#' class='darken'><img src='images/section2-3.jpg' /></a>"
+       }
+   ]
+}
